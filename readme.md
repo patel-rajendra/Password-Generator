@@ -20,3 +20,6 @@ This application generates a random password based on user-selected criteria.
 
 The following image demonstrates the application functionality:
 ![Password_Generator](https://user-images.githubusercontent.com/99554262/158098459-73a7c9f8-902b-4997-92cf-ac5514cef65d.jpg)
+
+# References:
+https://patel-rajendra.github.io/Password-Generator/
