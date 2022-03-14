@@ -2,7 +2,6 @@
 
 This application generates a random password based on user-selected criteria. 
 
-
 # Acceptance Criteria
 
 - Click the button to generate a password
@@ -17,3 +16,7 @@ This application generates a random password based on user-selected criteria.
 # Additional requirements:
 - The app runs in the browser and features dynamically updated HTML and CSS powered by your JavaScript code.
 - It has a clean and polished user interface and is responsive, which ensures that it adapts to multiple screen sizes.
+
+
+The following image demonstrates the application functionality:
+![Password_Generator](https://user-images.githubusercontent.com/99554262/158098459-73a7c9f8-902b-4997-92cf-ac5514cef65d.jpg)
